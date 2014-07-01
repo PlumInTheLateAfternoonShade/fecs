@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ArrayListPerfTest/ArrayListPerfTest.cs">
+    <Files>
+      <File FileName="ArrayListPerfTest/ArrayListPerfTest.cs" Line="11" Column="2" />
+      <File FileName="ArrayListPerfTest/CompBuilder.cs" Line="7" Column="2" />
+      <File FileName="ArrayListPerfTest/Position.cs" Line="9" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
