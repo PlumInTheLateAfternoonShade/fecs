@@ -1,0 +1,294 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+', function	rigidclass/spec/Object_spec.lua	/^      describe('nils, integers, strings, tables, and functions', function()$/;"	f
+) AClass.include	rigidclass/spec/classes_spec.lua	/^        assert.error(function() AClass.include() end)$/;"	f
+) AClass.subclass	rigidclass/spec/classes_spec.lua	/^        assert.error(function() AClass.subclass() end)$/;"	f
+) AClass:include	rigidclass/spec/classes_spec.lua	/^        assert.error(function() AClass:include(1) end)$/;"	f
+) AClass:subclass	rigidclass/spec/classes_spec.lua	/^        assert.error( function() AClass:subclass() end)$/;"	f
+) Object.subclass	rigidclass/spec/Object_spec.lua	/^      assert.error(function() Object.subclass() end)$/;"	f
+) Object:subclass	rigidclass/spec/Object_spec.lua	/^      assert.error( function() Object:subclass() end)$/;"	f
+A.static:bar	rigidclass/performance/rrun.lua	/^function A.static:bar()$/;"	f
+A.static:bar	rigidclass/performance/run.lua	/^function A.static:bar()$/;"	f
+A.static:foo	rigidclass/spec/classes_spec.lua	/^      function A.static:foo() return 'foo' end$/;"	f
+A:foo	rigidclass/performance/rrun.lua	/^function A:foo()$/;"	f
+A:foo	rigidclass/performance/run.lua	/^function A:foo()$/;"	f
+A:initialize	rigidclass/performance/run.lua	/^function A:initialize()$/;"	f
+A:overridden	rigidclass/spec/instances_spec.lua	/^      function A:overridden() return 'foo' end$/;"	f
+A:regular	rigidclass/spec/instances_spec.lua	/^      function A:regular() return 'regular' end$/;"	f
+ARR_SIZE	testindex.c	8;"	d	file:
+ARR_SIZE	testptr.c	8;"	d	file:
+AgedPerson:initialize	rigidclass/spec/instances_spec.lua	/^      function AgedPerson:initialize(name, age)$/;"	f
+Array:__construct	lds/lds/Array.lua	/^function Array:__construct( size )$/;"	f
+Array:__destruct	lds/lds/Array.lua	/^function Array:__destruct()$/;"	f
+Array:back	lds/lds/Array.lua	/^function Array:back()$/;"	f
+Array:data	lds/lds/Array.lua	/^function Array:data()$/;"	f
+Array:empty	lds/lds/Array.lua	/^function Array:empty()$/;"	f
+Array:front	lds/lds/Array.lua	/^function Array:front()$/;"	f
+Array:get	lds/lds/Array.lua	/^function Array:get( i )$/;"	f
+Array:get_e	lds/lds/Array.lua	/^function Array:get_e( i )$/;"	f
+Array:set	lds/lds/Array.lua	/^function Array:set( i, x )$/;"	f
+Array:set_e	lds/lds/Array.lua	/^function Array:set_e( i, x )$/;"	f
+Array:size	lds/lds/Array.lua	/^function Array:size()$/;"	f
+Array:size_bytes	lds/lds/Array.lua	/^function Array:size_bytes()$/;"	f
+ArrayListPerfTest	csharp/ArrayListPerfTest/ArrayListPerfTest/ArrayListPerfTest.cs	/^namespace ArrayListPerfTest$/;"	n
+ArrayListPerfTest	csharp/ArrayListPerfTest/ArrayListPerfTest/CompBuilder.cs	/^namespace ArrayListPerfTest$/;"	n
+ArrayListPerfTest	csharp/ArrayListPerfTest/ArrayListPerfTest/Position.cs	/^namespace ArrayListPerfTest$/;"	n
+B.static:foo	rigidclass/spec/classes_spec.lua	/^      function B.static:foo() return 'chunky bacon' end$/;"	f
+B:overridden	rigidclass/spec/instances_spec.lua	/^      function B:overridden() return 'bar' end$/;"	f
+Class1:foo	rigidclass/spec/mixins_spec.lua	/^    function Class1:foo() return 'foo1' end$/;"	f
+Class2:bar2	rigidclass/spec/mixins_spec.lua	/^    function Class2:bar2() return 'bar2' end$/;"	f
+CompBuilder	csharp/ArrayListPerfTest/ArrayListPerfTest/CompBuilder.cs	/^	public class CompBuilder$/;"	c	namespace:ArrayListPerfTest
+Component	testindex.c	/^struct Component {$/;"	s	file:
+Component	testindex.c	/^typedef struct Component Component;$/;"	t	typeref:struct:Component	file:
+Component	testptr.c	/^struct Component {$/;"	s	file:
+Component	testptr.c	/^typedef struct Component Component;$/;"	t	typeref:struct:Component	file:
+Fruit	rigidclass/typedef.c	/^} Fruit;$/;"	t	typeref:struct:__anon1	file:
+Fruit:initialize	rigidclass/testmiddleclass.lua	/^function Fruit:initialize(sweetness)$/;"	f
+Fruit:initialize	rigidclass/testrigidclass.lua	/^function Fruit:initialize(sweetness, color, edible, subtable, subrigid)$/;"	f
+Fruit:isSweet	rigidclass/testmiddleclass.lua	/^function Fruit:isSweet()$/;"	f
+Fruit:isSweet	rigidclass/testrigidclass.lua	/^function Fruit:isSweet()$/;"	f
+HashMap:clear	lds/lds/HashMap.lua	/^function HashMap:clear()$/;"	f
+HashMap:empty	lds/lds/HashMap.lua	/^function HashMap:empty()$/;"	f
+HashMap:find	lds/lds/HashMap.lua	/^function HashMap:find( k )$/;"	f
+HashMap:get_internals	lds/lds/HashMap.lua	/^function HashMap:get_internals()$/;"	f
+HashMap:insert	lds/lds/HashMap.lua	/^function HashMap:insert( k, v )$/;"	f
+HashMap:iter	lds/lds/HashMap.lua	/^function HashMap:iter()$/;"	f
+HashMap:remove	lds/lds/HashMap.lua	/^function HashMap:remove( k )$/;"	f
+HashMap:size	lds/lds/HashMap.lua	/^function HashMap:size()$/;"	f
+HashMapT__hash	lds/lds/HashMap.lua	/^local function HashMapT__hash( self, x )$/;"	f
+HashMapT__resize	lds/lds/HashMap.lua	/^local function HashMapT__resize( self )$/;"	f
+J.MALLOCX_ALIGN	lds/lds/jemalloc.lua	/^    function J.MALLOCX_ALIGN( a )$/;"	f
+J.MALLOCX_ARENA	lds/lds/jemalloc.lua	/^function J.MALLOCX_ARENA( a )$/;"	f
+J.MALLOCX_LG_ALIGN	lds/lds/jemalloc.lua	/^function J.MALLOCX_LG_ALIGN( la )$/;"	f
+J.MALLOCX_ZERO	lds/lds/jemalloc.lua	/^function J.MALLOCX_ZERO()$/;"	f
+J.aligned_alloc	lds/lds/jemalloc.lua	/^        function J.aligned_alloc( alignment, size )$/;"	f
+J.bind_standard_api	lds/lds/jemalloc.lua	/^    function J.bind_standard_api()$/;"	f
+J.calloc	lds/lds/jemalloc.lua	/^        function J.calloc( number, size )$/;"	f
+J.dallocx	lds/lds/jemalloc.lua	/^    function J.dallocx( ptr, flags)$/;"	f
+J.free	lds/lds/jemalloc.lua	/^        function J.free( ptr )$/;"	f
+J.get_prefix	lds/lds/jemalloc.lua	/^function J.get_prefix()$/;"	f
+J.mallctl_read	lds/lds/jemalloc.lua	/^    function J.mallctl_read( param )$/;"	f
+J.mallctl_write	lds/lds/jemalloc.lua	/^    function J.mallctl_write( param, value )$/;"	f
+J.malloc	lds/lds/jemalloc.lua	/^        function J.malloc( size )$/;"	f
+J.malloc_stats_print	lds/lds/jemalloc.lua	/^    function J.malloc_stats_print()  -- TODO allow user-supplied callback$/;"	f
+J.malloc_usable_size	lds/lds/jemalloc.lua	/^    function J.malloc_usable_size( ptr )$/;"	f
+J.mallocx	lds/lds/jemalloc.lua	/^    function J.mallocx( size, flags )$/;"	f
+J.nallocx	lds/lds/jemalloc.lua	/^    function J.nallocx( size, flags)$/;"	f
+J.posix_memalign	lds/lds/jemalloc.lua	/^        function J.posix_memalign( ptr, alignment, size )$/;"	f
+J.rallocx	lds/lds/jemalloc.lua	/^    function J.rallocx( ptr, size, flags )$/;"	f
+J.realloc	lds/lds/jemalloc.lua	/^        function J.realloc( ptr, size )$/;"	f
+J.sallocx	lds/lds/jemalloc.lua	/^    function J.sallocx( ptr, flags )$/;"	f
+J.xallocx	lds/lds/jemalloc.lua	/^    function J.xallocx( ptr, size, extra, flags )$/;"	f
+Lemon:initialize	rigidclass/testmiddleclass.lua	/^function Lemon:initialize()$/;"	f
+Lemon:initialize	rigidclass/testrigidclass.lua	/^function Lemon:initialize(sweetness, color, edible, subtable, sugrigid)$/;"	f
+Main	csharp/ArrayListPerfTest/ArrayListPerfTest/ArrayListPerfTest.cs	/^		public static void Main (string[] args)$/;"	m	class:ArrayListPerfTest.MainClass
+MainClass	csharp/ArrayListPerfTest/ArrayListPerfTest/ArrayListPerfTest.cs	/^	class MainClass$/;"	c	namespace:ArrayListPerfTest
+Mixin1.static.bazzz 	rigidclass/spec/mixins_spec.lua	/^    Mixin1.static.bazzz = function() return 'bazzz' end$/;"	f
+Mixin1:bar	rigidclass/spec/mixins_spec.lua	/^    function Mixin1:bar() return 'bar' end$/;"	f
+Mixin1:foo	rigidclass/spec/mixins_spec.lua	/^    function Mixin1:foo() return 'foo' end$/;"	f
+Mixin2:baz	rigidclass/spec/mixins_spec.lua	/^    function Mixin2:baz() return 'baz' end$/;"	f
+NUMBER_OF_INSERTS	lds/tests/perf_unordered_map_insert.cpp	/^int NUMBER_OF_INSERTS = 1e6;$/;"	v
+Object.static:allocate	rigidclass/middleclass.lua	/^function Object.static:allocate()$/;"	f
+Object.static:include	rigidclass/middleclass.lua	/^function Object.static:include( ... )$/;"	f
+Object.static:includes	rigidclass/middleclass.lua	/^function Object.static:includes(mixin)$/;"	f
+Object.static:isSubclassOf	rigidclass/middleclass.lua	/^function Object.static:isSubclassOf(other)$/;"	f
+Object.static:new	rigidclass/middleclass.lua	/^function Object.static:new(...)$/;"	f
+Object.static:subclass	rigidclass/middleclass.lua	/^function Object.static:subclass(name)$/;"	f
+Object.static:subclassed	rigidclass/middleclass.lua	/^function Object.static:subclassed(other) end$/;"	f
+Object:__tostring	rigidclass/middleclass.lua	/^function Object:__tostring() return "instance of " .. tostring(self.class) end$/;"	f
+Object:initialize	rigidclass/middleclass.lua	/^function Object:initialize() end$/;"	f
+Object:isInstanceOf	rigidclass/middleclass.lua	/^function Object:isInstanceOf(aClass)$/;"	f
+Person:initialize	rigidclass/spec/instances_spec.lua	/^      function Person:initialize(name)$/;"	f
+Pixel:image_to_grey	rigidclass/naiverigidclass.lua	/^function Pixel:image_to_grey()$/;"	f
+Pixel:image_to_grey	rigidclass/optimizedrigidclass.lua	/^function Pixel:image_to_grey()$/;"	f
+Pixel:initialize	rigidclass/naivemiddleclass.lua	/^function Pixel:initialize(red, green, blue, alpha)$/;"	f
+Pixel:initialize	rigidclass/naiverigidclass.lua	/^function Pixel:initialize(red, green, blue, alpha)$/;"	f
+Point4	lds/tests/perf_unordered_map_insert.cpp	/^    Point4( double _x, double _y, double _z, double _w )$/;"	f	struct:Point4
+Point4	lds/tests/perf_unordered_map_insert.cpp	/^struct Point4 {$/;"	s	file:
+Point4_random	lds/tests/perf_Insert.lua	/^local function Point4_random()$/;"	f
+Position	csharp/ArrayListPerfTest/ArrayListPerfTest/Position.cs	/^	public struct Position$/;"	s	namespace:ArrayListPerfTest
+Position:initialize	fecsTest.lua	/^function Position:initialize(x, y)$/;"	f
+PositionSystem:initialize	fecsTest.lua	/^function PositionSystem:initialize()$/;"	f
+PositionSystem:process	fecsTest.lua	/^function PositionSystem:process(position)$/;"	f
+SubClass.static:allocate	rigidclass/spec/Object_spec.lua	/^        function SubClass.static:allocate()$/;"	f
+Vector.__add	rigidclass/spec/metamethods_spec.lua	/^    function Vector.__add(a,b)    return Vector:new(a.x+b.x, a.y+b.y ,a.z+b.z) end$/;"	f
+Vector.__call	rigidclass/spec/metamethods_spec.lua	/^    function Vector.__call(a)     return math.sqrt(a.x*a.x+a.y*a.y+a.z*a.z) end$/;"	f
+Vector.__concat	rigidclass/spec/metamethods_spec.lua	/^    function Vector.__concat(a,b) return a.x*b.x+a.y*b.y+a.z*b.z end$/;"	f
+Vector.__div	rigidclass/spec/metamethods_spec.lua	/^    function Vector.__div(a,s)    return Vector:new(a.x\/s, a.y\/s, a.z\/s) end$/;"	f
+Vector.__ipairs	rigidclass/spec/metamethods_spec.lua	/^    function Vector.__ipairs(a)$/;"	f
+Vector.__len	rigidclass/spec/metamethods_spec.lua	/^    function Vector.__len(a)    return 3 end$/;"	f
+Vector.__lt	rigidclass/spec/metamethods_spec.lua	/^    function Vector.__lt(a,b)     return a() < b() end$/;"	f
+Vector.__mul	rigidclass/spec/metamethods_spec.lua	/^    function Vector.__mul(a,b)$/;"	f
+Vector.__pairs	rigidclass/spec/metamethods_spec.lua	/^    function Vector.__pairs(a)$/;"	f
+Vector.__pow	rigidclass/spec/metamethods_spec.lua	/^    function Vector.__pow(a,b)$/;"	f
+Vector.__sub	rigidclass/spec/metamethods_spec.lua	/^    function Vector.__sub(a,b)    return Vector:new(a.x-b.x, a.y-b.y, a.z-b.z) end$/;"	f
+Vector.__tostring	rigidclass/spec/metamethods_spec.lua	/^    function Vector.__tostring(a) return a.class.name .. '[' .. a.x .. ',' .. a.y .. ',' .. a.z .. ']' end$/;"	f
+Vector.__unm	rigidclass/spec/metamethods_spec.lua	/^    function Vector.__unm(a)      return Vector:new(-a.x, -a.y, -a.z) end$/;"	f
+Vector2:initialize	rigidclass/spec/metamethods_spec.lua	/^      function Vector2:initialize(x,y,z) Vector.initialize(self,x,y,z) end$/;"	f
+Vector:__construct	lds/lds/Vector.lua	/^function Vector:__construct( reserve_n )$/;"	f
+Vector:__destruct	lds/lds/Vector.lua	/^function Vector:__destruct()$/;"	f
+Vector:back	lds/lds/Vector.lua	/^function Vector:back()$/;"	f
+Vector:capacity	lds/lds/Vector.lua	/^function Vector:capacity()$/;"	f
+Vector:capacity_bytes	lds/lds/Vector.lua	/^function Vector:capacity_bytes()$/;"	f
+Vector:clear	lds/lds/Vector.lua	/^function Vector:clear()$/;"	f
+Vector:data	lds/lds/Vector.lua	/^function Vector:data()$/;"	f
+Vector:empty	lds/lds/Vector.lua	/^function Vector:empty()$/;"	f
+Vector:erase	lds/lds/Vector.lua	/^function Vector:erase( i )$/;"	f
+Vector:front	lds/lds/Vector.lua	/^function Vector:front()$/;"	f
+Vector:get	lds/lds/Vector.lua	/^function Vector:get( i )$/;"	f
+Vector:get_e	lds/lds/Vector.lua	/^function Vector:get_e( i )$/;"	f
+Vector:insert	lds/lds/Vector.lua	/^function Vector:insert( i, x )$/;"	f
+Vector:pop_back	lds/lds/Vector.lua	/^function Vector:pop_back()$/;"	f
+Vector:push_back	lds/lds/Vector.lua	/^function Vector:push_back( x )$/;"	f
+Vector:reserve	lds/lds/Vector.lua	/^function Vector:reserve( reserve_n )$/;"	f
+Vector:set	lds/lds/Vector.lua	/^function Vector:set( i, x )$/;"	f
+Vector:set_e	lds/lds/Vector.lua	/^function Vector:set_e( i, x )$/;"	f
+Vector:shrink_to_fit	lds/lds/Vector.lua	/^function Vector:shrink_to_fit()$/;"	f
+Vector:size	lds/lds/Vector.lua	/^function Vector:size()$/;"	f
+Vector:size_bytes	lds/lds/Vector.lua	/^function Vector:size_bytes()$/;"	f
+VectorT__resize	lds/lds/Vector.lua	/^local function VectorT__resize( v, reserve_n, shrink_to_fit )$/;"	f
+__call 	rigidclass/rigidclass.lua	/^    __call = function(_, typeAnnotations, name, ...)$/;"	f
+__call     	rigidclass/middleclass.lua	/^    __call     = function(self, ...) return self:new(...) end$/;"	f
+__gc 	lds/lds/Array.lua	/^    __gc = function( self )$/;"	f
+__gc 	lds/lds/HashMap.lua	/^    __gc = function( self )$/;"	f
+__gc 	lds/lds/Vector.lua	/^    __gc = function( self )$/;"	f
+__index 	rigidclass/cstring.lua	/^    __index = function(t, k)$/;"	f
+__index 	rigidclass/mess.lua	/^    __index = function(t, k)$/;"	f
+__index 	rigidclass/rigidclass.lua	/^        __index = function (t, k)$/;"	f
+__len 	lds/lds/Array.lua	/^    __len = function( self )$/;"	f
+__len 	lds/lds/HashMap.lua	/^    __len = function( self )$/;"	f
+__len 	lds/lds/Vector.lua	/^    __len = function( self )$/;"	f
+__new 	lds/lds/Array.lua	/^    __new = function( at, size )$/;"	f
+__new 	lds/lds/HashMap.lua	/^    __new = function( hmt )$/;"	f
+__new 	lds/lds/Vector.lua	/^    __new = function( vt, reserve_n )$/;"	f
+__newindex 	rigidclass/cstring.lua	/^    __newindex = function(t, k, v)$/;"	f
+__newindex 	rigidclass/test.lua	/^    __newindex = function(t, k, v)$/;"	f
+__tostring	rigidclass/rigidclass.lua	/^local function __tostring(self)$/;"	f
+__tostring 	rigidclass/middleclass.lua	/^    __tostring = function() return "class " .. aClass.name end,$/;"	f
+__tostring 	rigidclass/tree.lua	/^    __tostring = function(t)$/;"	f
+_createClass	rigidclass/middleclass.lua	/^local function _createClass(name, super)$/;"	f
+_createLookupMetamethod	rigidclass/middleclass.lua	/^local function _createLookupMetamethod(aClass, name)$/;"	f
+_includeMixin	rigidclass/middleclass.lua	/^local function _includeMixin(aClass, mixin)$/;"	f
+_setClassDictionariesMetatables	rigidclass/middleclass.lua	/^local function _setClassDictionariesMetatables(aClass)$/;"	f
+_setClassMetamethods	rigidclass/middleclass.lua	/^local function _setClassMetamethods(aClass)$/;"	f
+_setClassMetatable	rigidclass/middleclass.lua	/^local function _setClassMetatable(aClass)$/;"	f
+_setDefaultInitializeMethod	rigidclass/middleclass.lua	/^local function _setDefaultInitializeMethod(aClass, super)$/;"	f
+aClass.initialize 	rigidclass/middleclass.lua	/^  aClass.initialize = function(instance, ...)$/;"	f
+alignOf	rigidclass/rigidclass.lua	/^local function alignOf(cType)$/;"	f
+allocate	rigidclass/rigidclass.lua	/^local function allocate(self)$/;"	f
+allocate  	lds/lds/allocator.lua	/^            allocate  = function(self, n)$/;"	f
+allocate  	lds/lds/allocator.lua	/^        allocate  = function(self, n)$/;"	f
+allocate   	lds/lds/allocator.lua	/^    allocate   = function(self, n)     -- allocates storage of n elements$/;"	f
+arr	testindex.c	/^Component arr[ARR_SIZE];$/;"	v
+arr	testptr.c	/^Component arr[ARR_SIZE];$/;"	v
+array	rigidclass/rigidclass.lua	/^local function array(self, n)$/;"	f
+assert( type(method)	rigidclass/middleclass.lua	/^    assert( type(method)=='function', tostring(aClass) .. " doesn't implement metamethod '" .. name .. "'" )$/;"	f
+assignTypes	rigidclass/rigidclass.lua	/^local function assignTypes(class, types)$/;"	f
+available to subclasses', function	rigidclass/spec/mixins_spec.lua	/^  it('makes its functions available to subclasses', function()$/;"	f
+benchmark	lds/tests/perf_Insert.lua	/^local function benchmark( name, fn )$/;"	f
+benchmark	lds/tests/perf_unordered_map_insert.cpp	/^void benchmark( const std::string& name, void(*fn)() )$/;"	f
+buildDefString	rigidclass/rigidclass.lua	/^local function buildDefString(cTypes, name)$/;"	f
+copyMeta	rigidclass/rigidclass.lua	/^local function copyMeta(mt, super)$/;"	f
+create	rigidclass/rigidclass.lua	/^local function create(class, types)$/;"	f
+deallocate 	lds/lds/allocator.lua	/^            deallocate = function(self, p)$/;"	f
+deallocate 	lds/lds/allocator.lua	/^        deallocate = function(self, p)$/;"	f
+deallocate 	lds/lds/allocator.lua	/^    deallocate = function(self, p)     -- deallocates storage using the allocator$/;"	f
+define	rigidclass/rigidclass.lua	/^local function define(name, types, mt, class)$/;"	f
+function AClass.static:subclassed(other) self.static.child 	rigidclass/spec/classes_spec.lua	/^          function AClass.static:subclassed(other) self.static.child = other end$/;"	f
+function Mixin1:included(theClass) theClass.includesMixin1 	rigidclass/spec/mixins_spec.lua	/^    function Mixin1:included(theClass) theClass.includesMixin1 = true end$/;"	f
+function SubClass:initialize() self.mark	rigidclass/spec/Object_spec.lua	/^      function SubClass:initialize() self.mark=true end$/;"	f
+function Vector.__eq(a,b)     return a.x	rigidclass/spec/metamethods_spec.lua	/^    function Vector.__eq(a,b)     return a.x==b.x and a.y==b.y and a.z==b.z end$/;"	f
+function Vector.__le(a,b)     return a() <	rigidclass/spec/metamethods_spec.lua	/^    function Vector.__le(a,b)     return a() <= b() end$/;"	f
+function Vector.initialize(a,x,y,z) a.x, a.y, a.z 	rigidclass/spec/metamethods_spec.lua	/^    function Vector.initialize(a,x,y,z) a.x, a.y, a.z = x,y,z end$/;"	f
+getTypes	rigidclass/rigidclass.lua	/^local function getTypes(object)$/;"	f
+getUniqueIdentifier	rigidclass/rigidclass.lua	/^local function getUniqueIdentifier(originalIdentifier)$/;"	f
+if type(mixin.included)	rigidclass/middleclass.lua	/^  if type(mixin.included)=="function" then mixin:included(aClass) end$/;"	f
+image_ramp_green	rigidclass/cnaive.lua	/^local function image_ramp_green(n)$/;"	f
+image_ramp_green	rigidclass/coptimized.lua	/^local function image_ramp_green(n)$/;"	f
+image_ramp_green	rigidclass/naivemiddleclass.lua	/^local function image_ramp_green(n)$/;"	f
+image_ramp_green	rigidclass/naiverigidclass.lua	/^local function image_ramp_green(n)$/;"	f
+image_ramp_green	rigidclass/optimizedrigidclass.lua	/^local function image_ramp_green(n)$/;"	f
+image_to_grey	rigidclass/cnaive.lua	/^local function image_to_grey(img, n)$/;"	f
+image_to_grey	rigidclass/coptimized.lua	/^local function image_to_grey(img, n)$/;"	f
+image_to_grey	rigidclass/naivemiddleclass.lua	/^local function image_to_grey(img, n)$/;"	f
+indexer[k] 	rigidclass/rigidclass.lua	/^                indexer[k] = function(tbl, key)$/;"	f
+isInstanceOf	rigidclass/rigidclass.lua	/^local function isInstanceOf(self, aClass)$/;"	f
+is_lua_5_2_compatible	rigidclass/spec/metamethods_spec.lua	/^local function is_lua_5_2_compatible()$/;"	f
+lds.Array	lds/lds/Array.lua	/^function lds.Array( ct, size, allocator_class )$/;"	f
+lds.ArrayT	lds/lds/Array.lua	/^function lds.ArrayT( ct, allocator_class )$/;"	f
+lds.HashMap	lds/lds/HashMap.lua	/^function lds.HashMap( ct_key, ct_val, allocator )$/;"	f
+lds.HashMapT	lds/lds/HashMap.lua	/^function lds.HashMapT( ct_key, ct_val, allocator_class )$/;"	f
+lds.JemallocAllocator	lds/lds/allocator.lua	/^    function lds.JemallocAllocator( ct, flags )$/;"	f
+lds.JemallocAllocatorT	lds/lds/allocator.lua	/^    function lds.JemallocAllocatorT( ct, flags )$/;"	f
+lds.MallocAllocator	lds/lds/allocator.lua	/^function lds.MallocAllocator( ct, which )$/;"	f
+lds.MallocAllocatorT	lds/lds/allocator.lua	/^function lds.MallocAllocatorT( ct, which )$/;"	f
+lds.VLAAllocator	lds/lds/allocator.lua	/^function lds.VLAAllocator( ct )$/;"	f
+lds.VLAAllocatorT	lds/lds/allocator.lua	/^function lds.VLAAllocatorT( ct )$/;"	f
+lds.Vector	lds/lds/Vector.lua	/^function lds.Vector( ct, allocator_class )$/;"	f
+lds.VectorT	lds/lds/Vector.lua	/^function lds.VectorT( ct, allocator_class )$/;"	f
+lds.assert	lds/lds/init.lua	/^function lds.assert( x, msg )$/;"	f
+lds.error	lds/lds/init.lua	/^function lds.error( msg )$/;"	f
+lds.hash	lds/lds/hash.lua	/^function lds.hash( x )$/;"	f
+lds.hash_combine	lds/lds/hash.lua	/^function lds.hash_combine( seed, v )$/;"	f
+local f1 	rigidclass/spec/Object_spec.lua	/^            local f1 = function() return Object.isInstanceOf(primitive, Object) end$/;"	f
+local f1 	rigidclass/spec/Object_spec.lua	/^          local f1 = function() return Object.includes(Object, primitive) end$/;"	f
+local f1 	rigidclass/spec/Object_spec.lua	/^          local f1 = function() return Object.isSubclassOf(Object, primitive) end$/;"	f
+local f2 	rigidclass/spec/Object_spec.lua	/^            local f2 = function() return Object.isInstanceOf(primitive, o) end$/;"	f
+local f2 	rigidclass/spec/Object_spec.lua	/^          local f2 = function() return Object.includes(primitive, o) end$/;"	f
+local f2 	rigidclass/spec/Object_spec.lua	/^          local f2 = function() return Object.isSubclassOf(primitive, o) end$/;"	f
+local f3 	rigidclass/spec/Object_spec.lua	/^            local f3 = function() return Object.isInstanceOf(primitive, primitive) end$/;"	f
+local f3 	rigidclass/spec/Object_spec.lua	/^          local f3 = function() return Object.includes(primitive, primitive) end$/;"	f
+local f3 	rigidclass/spec/Object_spec.lua	/^          local f3 = function() return Object.isSubclassOf(primitive, primitive) end$/;"	f
+local hasFoo 	rigidclass/spec/Object_spec.lua	/^      local hasFoo = { foo=function() return 'foo' end }$/;"	f
+local primitives 	rigidclass/spec/Object_spec.lua	/^        local primitives = {nil, 1, 'hello', {}, function() end}$/;"	f
+local primitives 	rigidclass/spec/Object_spec.lua	/^      local primitives = {nil, 1, 'hello', {}, function() end}$/;"	f
+local success, J 	lds/lds/allocator.lua	/^local success, J =  pcall(function() return require 'lds\/jemalloc' end)$/;"	f
+local success, err 	lds/lds/jemalloc.lua	/^            local success, err = pcall(function() newp[0] = value end)$/;"	f
+local success, err 	lds/lds/jemalloc.lua	/^        local success, err = pcall(function() ffi.cdef(cdef_str) end)$/;"	f
+main	lds/tests/perf_unordered_map_insert.cpp	/^int main( int argc, const char* argv[] )$/;"	f
+main	rigidclass/typedef.c	/^int main(void) {$/;"	f
+main	testindex.c	/^int main(void) {$/;"	f
+main	testptr.c	/^int main(void) {$/;"	f
+makeWeakTable	rigidclass/rigidclass.lua	/^local function makeWeakTable(mode)$/;"	f
+middleclass.class	rigidclass/middleclass.lua	/^function middleclass.class(name, super, ...)$/;"	f
+mt.__newindex 	rigidclass/rigidclass.lua	/^    mt.__newindex = function (t, k, v)$/;"	f
+mt.getClass 	rigidclass/rigidclass.lua	/^    mt.getClass = function () return class end$/;"	f
+new	rigidclass/rigidclass.lua	/^local function new(self, ...)$/;"	f
+newIndexer[k] 	rigidclass/rigidclass.lua	/^                newIndexer[k] = function(tbl, key, val)$/;"	f
+next	testindex.c	/^    Component* next;$/;"	m	struct:Component	file:
+next	testptr.c	/^    Component* next;$/;"	m	struct:Component	file:
+next_index	testindex.c	/^    int next_index;$/;"	m	struct:Component	file:
+next_index	testptr.c	/^    int next_index;$/;"	m	struct:Component	file:
+processAll2Comp	ecs.lua	/^local function processAll2Comp(components1, components2)$/;"	f
+processAll2Comp	fecs.lua	/^local function processAll2Comp(components1, components2)$/;"	f
+random	lds/tests/perf_unordered_map_insert.cpp	/^    static Point4 random() {$/;"	f	struct:Point4
+reallocate 	lds/lds/allocator.lua	/^            reallocate = function(self, p, n)$/;"	f
+reallocate 	lds/lds/allocator.lua	/^        reallocate = function(self, p, n)$/;"	f
+reallocate 	lds/lds/allocator.lua	/^    reallocate = function(self, p, n)  -- reallocates storage at p to n elements$/;"	f
+return type(rawlen) 	rigidclass/spec/metamethods_spec.lua	/^  return type(rawlen) == 'function'$/;"	f
+setCTypes	rigidclass/rigidclass.lua	/^local function setCTypes(types, mt, class)$/;"	f
+setmetatable(aClass.static, { __index 	rigidclass/middleclass.lua	/^    setmetatable(aClass.static, { __index = function(_,k) return dict[k] end })$/;"	f
+setmetatable(aClass.static, { __index 	rigidclass/middleclass.lua	/^    setmetatable(aClass.static, { __index = function(_,k) return dict[k] or superStatic[k] end })$/;"	f
+setmetatable(middleclass, { __call 	rigidclass/middleclass.lua	/^setmetatable(middleclass, { __call = function(_, ...) return middleclass.class(...) end })$/;"	f
+simple_deep_copy	lds/lds/init.lua	/^local function simple_deep_copy( x )$/;"	f
+sortByDecreasingAlignment	rigidclass/rigidclass.lua	/^local function sortByDecreasingAlignment(a, b)$/;"	f
+t_mt.__index.allocate 	lds/lds/allocator.lua	/^        t_mt.__index.allocate = function(self, n)$/;"	f
+test_DoubleSet_insert	lds/tests/perf_unordered_map_insert.cpp	/^void test_DoubleSet_insert()$/;"	f
+test_PointMap_insert	lds/tests/perf_unordered_map_insert.cpp	/^void test_PointMap_insert()$/;"	f
+test_PointVec_insert	lds/tests/perf_unordered_map_insert.cpp	/^void test_PointVec_insert()$/;"	f
+toRigid	rigidclass/rigidclass.lua	/^local function toRigid(class)$/;"	f
+type(aClass.isSubclassOf) 	rigidclass/middleclass.lua	/^           type(aClass.isSubclassOf) == 'function' and$/;"	f
+type(aClass.isSubclassOf) 	rigidclass/rigidclass.lua	/^    type(aClass.isSubclassOf) == 'function' and$/;"	f
+type(self.super.includes)  	rigidclass/middleclass.lua	/^           type(self.super.includes)  == 'function' and$/;"	f
+type(self.super.isSubclassOf) 	rigidclass/middleclass.lua	/^           type(self.super.isSubclassOf) == 'function' and$/;"	f
+val	rigidclass/typedef.c	/^    int val;$/;"	m	struct:__anon1	file:
+w	lds/tests/perf_unordered_map_insert.cpp	/^    double x, y, z, w;$/;"	m	struct:Point4	file:
+x	csharp/ArrayListPerfTest/ArrayListPerfTest/Position.cs	/^		public double x, y;$/;"	f	struct:ArrayListPerfTest.Position
+x	lds/tests/perf_unordered_map_insert.cpp	/^    double x, y, z, w;$/;"	m	struct:Point4	file:
+y	csharp/ArrayListPerfTest/ArrayListPerfTest/Position.cs	/^		public double x, y;$/;"	f	struct:ArrayListPerfTest.Position
+y	lds/tests/perf_unordered_map_insert.cpp	/^    double x, y, z, w;$/;"	m	struct:Point4	file:
+z	lds/tests/perf_unordered_map_insert.cpp	/^    double x, y, z, w;$/;"	m	struct:Point4	file:
